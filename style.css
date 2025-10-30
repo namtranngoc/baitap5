@@ -1,5 +1,5 @@
 .product-thumb {
-  border: 1px solid #dee2e6; /* Màu xám nhạt */
+  border: 1px solid #dee2e6;
   padding: 2px;
   margin-bottom: 10px;
   cursor: pointer;
@@ -8,10 +8,9 @@
 
 .product-thumb.active,
 .product-thumb:hover {
-  border-color: #dc3545; /* Màu đỏ */
+  border-color: #dc3545;
 }
 
-/* Ghi đè màu link của Bootstrap */
 .navbar-nav .nav-link {
   color: #333;
   font-weight: 500;
